@@ -1,6 +1,6 @@
 <h1 align="center"> FoLganchik greets you </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+World,+manera+krutit+world)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=983adf&lines=Hello+World,+manera+krutit+world+!!!)
 
 <h3>Tech stack</h3>
 
