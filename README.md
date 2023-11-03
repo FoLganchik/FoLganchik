@@ -1,5 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+World,+manera+krutit+world)](https://git.io/typing-svg)
+<h1 align="center"> FoLganchik greets you </h1>
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+World,+manera+krutit+world)
+<hr>
 <h3>Tech stack</h3>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=black) 
