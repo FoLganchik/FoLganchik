@@ -14,3 +14,5 @@
 ## Stats 📊
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FoLganchik&amp;include_all_commits=true&amp;count_private=true&amp;show_icons=true&amp;line_height=25&amp;theme=midnight-purple)
 
+## CodeWars ⚔️
+[![codewars](https://www.codewars.com/users/FoLganchik/badges/large)](https://www.codewars.com/users/FoLganchik)
