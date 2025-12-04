@@ -12,7 +12,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## Stats 📊
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FoLganchik&amp;theme=midnight-purple)
+[![My Skills](https://skillicons.dev/icons?i=java,js,react&perline=3)](https://skillicons.dev)
 
 
 ## CodeWars ⚔️
